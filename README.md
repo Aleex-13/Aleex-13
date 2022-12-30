@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aleex-13
-- 👀 I’m interested in machine learning for medical applications and image analysis - from research to deployment
+- 👀 I’m interested in machine learning for medical image analysis - from research to deployment
 - 🌱 I’m currently learning how to build deep neural networks for segmentation
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: texting, mailing, lettering
