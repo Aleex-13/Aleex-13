@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aleex-13
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in machine learning for medical image analysis - from research to deployment
 - 🌱 I’m currently learning how to build deep neural networks for segmentation
 - 💞️ I’m looking to collaborate on fun projects!
-- 📫 How to reach me: texting, mailing, lettering
+- 📫 How to reach me
 
 <!---
 Aleex-13/Aleex-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
