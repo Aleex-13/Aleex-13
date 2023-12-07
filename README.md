@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in machine learning for medical image analysis - from research to deployment
+- 👀 I’m interested in deep learning for medical image processing
 - 🌱 I’m currently learning how to build deep neural networks for segmentation
 - 💞️ I’m looking to collaborate on fun projects!
 
